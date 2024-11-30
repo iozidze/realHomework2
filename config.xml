@@ -1,0 +1,6 @@
+<config>
+    <visualizer_path>C:\Users\бро\Downloads\plantuml-1.2024.8.jar</visualizer_path>
+    <package_path>C:\Users\бро\Desktop\учёба\"докер (ниаспо)"\docker_8\docker_maven</package_path>
+    <output_path>C:\Users\бро\Desktop\учёба\конфиг\second_dz\realHomework2\aboba.uml</output_path>
+    <repository_url>https://repo.maven.apache.org/maven2</repository_url>
+</config>
